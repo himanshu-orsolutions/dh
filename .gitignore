@@ -1,0 +1,7 @@
+**/node_modules/
+node_modules/
+dh-backend/.classpath
+dh-backend/.gitignore
+dh-backend/.project
+dh-backend/.settings/
+.gitignore
